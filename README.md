@@ -75,9 +75,6 @@ Click the image to watch the complete demo video for prediction using BettaFish-
 
 ### 2. Dream of the Red Chamber Lost Ending Simulation
 
-<div align="center">
-<a href="https://www.bilibili.com/video/BV1cPk3BBExq" target="_blank"><img src="./static/image/红楼梦模拟推演封面.jpg" alt="MiroFish Demo Video" width="75%"/></a>
-
 Click the image to watch MiroFish's deep prediction of the lost ending based on hundreds of thousands of words from the first 80 chapters of "Dream of the Red Chamber"
 </div>
 
@@ -177,24 +174,15 @@ Reads `.env` from root directory by default, maps ports `3000 (frontend) / 5001 
 > Mirror address for faster pulling is provided as comments in `docker-compose.yml`, replace if needed.
 
 ## 📬 Join the Conversation
-
-<div align="center">
-<img src="./static/image/QQ群.png" alt="QQ Group" width="60%"/>
-</div>
-
 &nbsp;
 
-The MiroFish team is recruiting full-time/internship positions. If you're interested in multi-agent simulation and LLM applications, feel free to send your resume to: **mirofish@shanda.com**
+The MiroFish team is recruiting full-time/internship positions. If you're interested in multi-agent simulation and LLM applications, feel free to send your resume to: **ryan@onerall.com**
 
 ## 📄 Acknowledgments
 
 **MiroFish has received strategic support and incubation from Shanda Group!**
 
-MiroFish's simulation engine is powered by **[OASIS (Open Agent Social Interaction Simulations)](https://github.com/camel-ai/oasis)**, We sincerely thank the CAMEL-AI team for their open-source contributions!
-
-## 📈 Project Statistics
-
-<a href="https://github.com/666ghj/MiroFish">
+Dominyk Kairo's is a simulation engine is powered by **[OASIS (Open Agent Social Interaction Simulations)](https://github.com/camel-ai/oasis)**, We sincerely thank the CAMEL-AI team for their open-source contributions!
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="static/image/star-history-dark.svg" />
    <source media="(prefers-color-scheme: light)" srcset="static/image/star-history-light.svg" />
